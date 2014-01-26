@@ -22,6 +22,9 @@ Exercises:
 - [Exercise 5 - Redirects](Exercise 5 - Redirects.md)
 - [Exercise 6 - Pageviews](Exercise 6 - Pageviews.md)
 
+<img src="https://api.keen.io/3.0/projects/51e76573897a2c29d6000002/events/weee?api_key=<83bbe2951e7f3da45a56866a95d839f056205ba5c8439295bf668f2811db46403b8621af1380e141100d8e7a0dc6e1d75c4c36b1b02031a271b7e21a3a48ef557dd93e91d58e0f793b8789b663b16f88c37f2d1ab201cb4a1b95efefc5c4d2dfe8fbb0536529acdac8bb53f53a02bfb6>&data=<blahBlahBlah>"></img>
+
+
 
 
 
